@@ -2,7 +2,7 @@
     <div id="da-slider" class="da-slider">
 	<div class="da-slide">
         <h2><a href="#" class="da-link">TeamSpeak Server</a></h2>
-        <p>Náš TS server je přehledný a téměř nikdy prázdný, naleznete zde mnoho roomek a skvělý rank-system.<br>Připojíte se pomocí IP adresy: <a href="ts3server://46.28.109.68:9987/?nickname=webuser_<?php echo rand(1000,9999); ?>">46.28.109.68</a></p>
+        <p>Nášs TS server je přehledný a téměř nikdy prázdný, naleznete zde mnoho roomek a skvělý rank-system.<br>Připojíte se pomocí IP adresy: <a href="ts3server://46.28.109.68:9987/?nickname=webuser_<?php echo rand(1000,9999); ?>">46.28.109.68</a></p>
         <div class="da-img"><img alt="alt_example" src="images/paralax_banner/3.png"  /></div>
       </div>
         <div class="da-slide">
