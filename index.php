@@ -23,9 +23,6 @@ if($maintenance == 1 && !in_array($ip,$whitelist)){
 <link rel="stylesheet" href="stylesheets/paralax_slider.css" />
 <link rel="stylesheet" href="stylesheets/post.css" type="text/css" media="screen" title="no title" charset="utf-8" />
 <link rel="stylesheet" href="stylesheets/jquery.fancybox1c51.css?v=2.1.2" type="text/css"  media="screen" />
-<!--[if IE]>
-<link rel="stylesheet" href="stylesheets/ie.css"> 
-<![endif]-->
 
 
 </head>
@@ -42,9 +39,9 @@ if($maintenance == 1 && !in_array($ip,$whitelist)){
       
       <a class="social_t"><img alt="alt_example" src="images/social_tleft.png" /></a> 
   
-      <a href="#" id="facebook"><img alt="alt_example" src="images/blank.gif" width="100%" height="37px" /></a>  
-      <a href="#" id="google_plus"><img alt="alt_example" src="images/blank.gif" width="100%" height="37px" /></a>
-      <a href="#" id="you_tube"><img alt="alt_example" src="images/blank.gif" width="100%" height="37px" /></a> 
+      <a href="#" id="facebook"><img alt="alt_example" src="images/blank.gif" width="100%"/></a>
+      <a href="#" id="google_plus"><img alt="alt_example" src="images/blank.gif" width="100%"/></a>
+      <a href="#" id="you_tube"><img alt="alt_example" src="images/blank.gif" width="100%" /></a>
     
 	  <a class="social_t" ><img alt="alt_example" src="images/social_tright.png" /></a> 
       
@@ -60,12 +57,12 @@ if($maintenance == 1 && !in_array($ip,$whitelist)){
     <div id="menu_wrapper">
       <div id="menu_left"></div>
       <ul id="menu">
-        <li><a href="/">Domovská stránka</a></li>
-		<li><a href="/novinky">Novinky</a></li>
-        <li><a href="/jak-se-pripojit">Jak se připojit na server?</a></li>
-        <li><a href="/podminky-sluzby">Podmínky služby</a></li>
-        <li><a href="/kontakt">Kontakt</a></li>
-          <li><a href="/o-nas">Několik slov o nás</a></li>
+        <li><a href="/local.chochrun.eu">Domovská stránka</a></li>
+		<li><a href="/local.chochrun.eu/novinky">Novinky</a></li>
+        <li><a href="/local.chochrun.eu/jak-se-pripojit">Jak se připojit na server?</a></li>
+        <li><a href="/local.chochrun.eu/podminky-sluzby">Podmínky služby</a></li>
+        <li><a href="/local.chochrun.eu/kontakt">Kontakt</a></li>
+          <li><a href="/local.chochrun.eu/o-nas">Několik slov o nás</a></li>
       </ul>
         <a href="#" id="pull">Menu</a>
       <div id="menu_right"></div>
@@ -77,7 +74,7 @@ if($maintenance == 1 && !in_array($ip,$whitelist)){
     
 	<?php 
 		  #remove the directory path we don't want
-	$request  = str_replace("/envato/pretty/php/", "", $_SERVER['REQUEST_URI']);
+	$request  = str_replace("local.chochrun.eu/", "", $_SERVER['REQUEST_URI']);
  
 	  #split the path by '/'
 	  $params = explode("/", $request);
