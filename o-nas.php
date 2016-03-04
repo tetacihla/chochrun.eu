@@ -12,7 +12,7 @@
                     
                     <!-- Body Start -->
                     <div id="body">
-                    	<h1>Kdo jsme?</h1>
+                    	<h1>Kdo jsme? My jsme tým mladých Ježibab a Vesničanů, snažíme se nakrmit ty nebohé lidi z Vacenovic.</h1>
                     	<p>Jsme tým mladých a schopných lidí, žijící v Jihomoravském kraji, kteří bezplatně a pro radost poskytují některé jednoduché služby. V současné době <b>poskytujeme TeamSpeak 3 server a Agar.io server pro veřejnost a pro Ratíškovice</b>. Tímto malým, skromným projektem nevyděláváme a učíme se jeho správou novým věcem. Naše servery jsou plně optimalizované a stabilní, už jenom proto, že jsou <b>součástí jednoho z největších datacenter v České republice - firmy Wedos, a.s</b></p>  
 						<h2>Co je naším cílem?</h2>
                     	<p>Naším cílem je především stabilita a řád a v neposlední řadě také spokojenost našich klientů. Usilujeme o to, aby naše servery byly plně funkční a optimalizované. Naším cílem je tedy spravovat servery, rozvíjet se a poskytovat svým uživatelům kvalitní služby. Kvalita totiž vítězí nad kvantitou.</p>  
