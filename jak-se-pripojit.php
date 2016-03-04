@@ -12,7 +12,7 @@
                     
                     <!-- Body Start -->
                     <div id="body">
-                    	<h1>Jak se připojit na naše služby?</h1>
+                    	<h1>Jak se připojit na naše služby</h1>
                     	<p>Nás server a vše, co na něm běží je dostupné pro každého. Zde je jsou v bodech napsány návody, podle kterých byste se měli připojit bez problému.</p>
                         <p>Máte-li problém s připojením se na jakoukoliv naši službu, kontaktuje nás na e-mailu podpory: <a href="mailto:support@chochrun.eu">support@chochrun.eu</a>, kde vám pomůžeme problém napravit.</p>
 						<h2>Jak se připojit na TeamSpeak Server?</h2>
