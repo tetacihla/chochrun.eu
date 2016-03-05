@@ -9,7 +9,7 @@
                  
                 <div id="post_wrapper">
                 
-                    test
+                    testtest
                     <!-- Body Start -->
                     <div id="body">
                     	<h1>Jak se připojit na naše služby</h1>
