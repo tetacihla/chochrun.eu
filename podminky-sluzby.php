@@ -12,6 +12,15 @@
                     
                     <!-- Body Start -->
                     <div id="body">
+                        <h2>Pravidla našich služeb v kostce</h2>
+                        <ol>
+                            <li>Na náš TeamSpeak server smí přistupovat pouze lidé s českou nebo slovenskou IP adresou.</li>
+                            <li>Na náš Agar.io server smí přistupovat lidé z celého světa.</li>
+                            <li>Zahlcovat server, pruzení, vkládání stránek odkazující na jiný, konkurenční portál, obcházení banů se bere jako hrubé porušení pravidel.</li>
+                            <li>Hrubé porušení pravidel vede k permanentnímu banu, případně k zabanování celého ISP/VPN. </li>
+                            <li>Svědci Jehovové srdečně vítání! - V blacklistu.</li>
+
+                        </ol>
                         <h2>Pravidla TeamSpeak3 Serveru</h2>
                         <ol>
                             <li>Uživatel nesmí vkládat odkazy, reklamy, ani IP adresy, které směřují na jiný server, než je tento.</li>
@@ -45,6 +54,8 @@
                             <li>Uživatel, který spamuje jiné uživatele, kteří nabádají jiné uživatele, aby spamovali jiné uživatele, bude zabanován stejně jako všichni tito spamující uživatelé, kteří spamují jiné uživatele.</li>
                             <li>Jako Uživatel souhlasíte používáním našich služeb s tím, že nebudete spamovat jiné uživatele.</li>
                         </ol>
+
+
                         <p><br>Nějaké nejasnosti? Neváhejte a napište mi do zpráv na serveru.</p>
                         <p>Vypracoval Mr.Chochrun, majitel portálu (nikoliv uživatel)</p>
 					</div>

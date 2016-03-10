@@ -18,6 +18,7 @@
             <h2>Spuštění webu</h2>
             <h3>16.2. 2016</h3>
             <p>Vážení přátelé, srdečně Vás vítáme na našem novém informativním webu. Naleznete zde mnoho aktualit, návodů, pravidel a neposlední řadě také kontaktů na naše administrátory. Prozatím stabilně  poskytujeme TeamSpeak 3 a agar.io server. Postupem času, bude-li to možné, servery budou přibývat.</p>
+
         </div>
         <!-- Body end -->
 
